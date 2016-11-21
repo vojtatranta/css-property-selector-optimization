@@ -1,13 +1,20 @@
 {
   "name": "css-optim",
   "version": "1.0.0",
-  "description": "",
+  "description": "CSS property - selector optimization experiment",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vojtatranta/css-property-selector-optimization/issues"    
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./index.js"
   },
-  "author": "",
+  "bugs": {
+    "url": "https://github.com/vojtatranta/css-property-selector-optimization/issues"
+  },
+  "author": "Vojtěch Tranta <vojta.tranta@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "css-to-js-object": "^0.0.3"
