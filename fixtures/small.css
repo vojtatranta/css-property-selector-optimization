@@ -1,0 +1,13 @@
+.some-class {
+  font-weight: bold;
+}
+
+.other-class {
+  width: 300px;
+  font-weight: bold;
+}
+
+.text-class {
+  font-weight: bold;
+  text-decoration: underline;
+}
